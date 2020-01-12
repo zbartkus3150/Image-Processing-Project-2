@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "IIPCV2", "IIPCV2\IIPCV2.pyproj", "{877B80B0-FFA7-4F2D-98A1-05BED6FEC343}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{877B80B0-FFA7-4F2D-98A1-05BED6FEC343}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{877B80B0-FFA7-4F2D-98A1-05BED6FEC343}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7EA8C13C-9E75-48FF-94D9-7192CA4DB748}
+	EndGlobalSection
+EndGlobal
