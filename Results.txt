@@ -5,7 +5,7 @@ Descriptors:
 4 - Local Binary Pattern
 5 - Zernike Moments
 
-
+Results with applied specific descriptors: 
  | |3| | | 88.42%
  | |3| | | 84.11% with mask
  | |3| | | 83.88% segmented
