@@ -1,0 +1,17 @@
+https://gogul.dev/software/image-classification-python
+
+https://www.learnopencv.com/shape-matching-using-hu-moments-c-python/
+
+https://en.wikipedia.org/wiki/Image_texture
+https://gogul.dev/software/texture-recognition
+https://www.nature.com/articles/s41598-017-04151-4
+
+https://en.wikipedia.org/wiki/Color_histogram
+https://www.pyimagesearch.com/2014/01/22/clever-girl-a-guide-to-utilizing-color-histograms-for-computer-vision-and-image-search-engines/
+
+https://en.wikipedia.org/wiki/Local_binary_patterns
+https://www.pyimagesearch.com/2015/12/07/local-binary-patterns-with-python-opencv/
+
+https://pdfs.semanticscholar.org/b4d3/d68e098cde69b8608a8c61d12027ef9caf81.pdf
+
+https://en.wikipedia.org/wiki/Random_forest
